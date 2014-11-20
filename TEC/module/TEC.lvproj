@@ -23,7 +23,6 @@
 		<Item Name="TEC configuration.lvclass" Type="LVClass" URL="../configuration/TEC configuration.lvclass"/>
 		<Item Name="TEC runtime.lvclass" Type="LVClass" URL="../execution/TEC runtime.lvclass"/>
 		<Item Name="TEC tests.lvlib" Type="Library" URL="../testing/TEC tests.lvlib"/>
-		<Item Name="UDPPrototype.vi" Type="VI" URL="../../UDP Prototype/UDPPrototype.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
