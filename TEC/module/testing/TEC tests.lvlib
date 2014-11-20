@@ -15,4 +15,5 @@
 	<Item Name="rename channel test.vi" Type="VI" URL="../rename channel test.vi"/>
 	<Item Name="runtime io test.vi" Type="VI" URL="../runtime io test.vi"/>
 	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
+	<Item Name="test wire conversion.vi" Type="VI" URL="../test wire conversion.vi"/>
 </Library>
