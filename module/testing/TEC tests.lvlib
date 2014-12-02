@@ -10,6 +10,7 @@
 	<Item Name="channel operation tests.vi" Type="VI" URL="../channel operation tests.vi"/>
 	<Item Name="channel qualification test.vi" Type="VI" URL="../channel qualification test.vi"/>
 	<Item Name="example test.vi" Type="VI" URL="../example test.vi"/>
+	<Item Name="file test.vi" Type="VI" URL="../file test.vi"/>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
 	<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
 	<Item Name="rename channel test.vi" Type="VI" URL="../rename channel test.vi"/>
