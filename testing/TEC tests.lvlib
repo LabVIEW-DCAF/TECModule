@@ -12,7 +12,6 @@
 	<Item Name="example test.vi" Type="VI" URL="../example test.vi"/>
 	<Item Name="file test.vi" Type="VI" URL="../file test.vi"/>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
-	<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
 	<Item Name="rename channel test.vi" Type="VI" URL="../rename channel test.vi"/>
 	<Item Name="runtime io test.vi" Type="VI" URL="../runtime io test.vi"/>
 	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
