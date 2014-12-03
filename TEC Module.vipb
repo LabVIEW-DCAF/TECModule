@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 17:21:33" Modified_Date="2014-12-02 18:53:49" Creator="Daniel" Comments="" ID="2037bb6cbbe8f561946d38ecdd57dbe4">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 17:21:33" Modified_Date="2014-12-02 18:57:53" Creator="Daniel" Comments="" ID="777193617c557064978dd76dcea8bb15">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm_udp</Package_File_Name>
-    <Library_Version>2.0.0.1</Library_Version>
+    <Library_Version>2.0.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\package releases\TECUDP\module</Library_Output_Folder>
@@ -17,8 +17,7 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>ni_lib_cvt &gt;=3.3.0.8</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_tbm &gt;=1.0.3.43</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_dataeng &gt;=2.0.2.1</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -41,7 +40,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;vi.lib&gt;\NI\TBM Modules\CVT Access\module</Path>
+        <Path>&lt;vi.lib&gt;\NI\TBM Modules\UDP Broadcast</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
@@ -109,6 +108,21 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>TEC.lvproj</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>sample_code_license_terms_20141101.txt</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>README.md</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>LICENSE.txt</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>.gitignore</Path>
+      </Exclusions>
       <Exclusions>
         <Path>testing</Path>
       </Exclusions>
