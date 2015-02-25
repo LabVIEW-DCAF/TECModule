@@ -11,10 +11,13 @@
 	<Item Name="channel qualification test.vi" Type="VI" URL="../channel qualification test.vi"/>
 	<Item Name="example test.vi" Type="VI" URL="../example test.vi"/>
 	<Item Name="file test.vi" Type="VI" URL="../file test.vi"/>
+	<Item Name="generate channels.vi" Type="VI" URL="../generate channels.vi"/>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
 	<Item Name="rename channel test.vi" Type="VI" URL="../rename channel test.vi"/>
 	<Item Name="runtime io test.vi" Type="VI" URL="../runtime io test.vi"/>
 	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
 	<Item Name="test wire conversion.vi" Type="VI" URL="../test wire conversion.vi"/>
+	<Item Name="UDP test Half 1.vi" Type="VI" URL="../UDP test Half 1.vi"/>
+	<Item Name="UDP test Half 2.vi" Type="VI" URL="../UDP test Half 2.vi"/>
 	<Item Name="UDPPrototype.vi" Type="VI" URL="../UDPPrototype.vi"/>
 </Library>
