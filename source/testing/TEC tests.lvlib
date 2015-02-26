@@ -19,5 +19,6 @@
 	<Item Name="test wire conversion.vi" Type="VI" URL="../test wire conversion.vi"/>
 	<Item Name="UDP test Half 1.vi" Type="VI" URL="../UDP test Half 1.vi"/>
 	<Item Name="UDP test Half 2.vi" Type="VI" URL="../UDP test Half 2.vi"/>
+	<Item Name="UDP test incomplete packet error.vi" Type="VI" URL="../../execution/UDP test incomplete packet error.vi"/>
 	<Item Name="UDPPrototype.vi" Type="VI" URL="../UDPPrototype.vi"/>
 </Library>
