@@ -6,7 +6,7 @@ The TagBus Engine Communication (TEC) Module allows DCAF applications to share d
 
 ### Module Pairing
 
-![ModulePairings](Documentation\Module_Pairing.png)
+![ModulePairings](Documentation/Module_Pairing.png)
 
 **Pairing Options:** List of all other TEC Modules in the current configuration which are both unpaired, and do not reside in the same engine.
 
@@ -24,7 +24,7 @@ Only after pairing modules will available tags be populated in the **Channel Map
 
 ### Channel Mapping
 
-![ChannelMapping](Documentation\Channel_Mappings.png)
+![ChannelMapping](Documentation/Channel_Mappings.png)
 
 **Filtering:** Filter list of available tags using the syntax of the [Match Pattern](http://zone.ni.com/reference/en-XX/help/371361R-01/glang/match_pattern/) primitive.
 
@@ -38,7 +38,7 @@ By selecting tags in the **Available Tags** list and pressing the right arrow, t
 
 ### Module Settings
 
-![ModuleSettings](Documentation\Module_Settings.png)
+![ModuleSettings](Documentation/Module_Settings.png)
 
 **Send to Address:** IP address of the paired module.
 
